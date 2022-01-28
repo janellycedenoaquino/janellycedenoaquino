@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm I'm Janelly</h1>
+<h1 align="center">Hey there 👋, I'm Janelly</h1>
 <h3 align="center">A Software Engineer based in New York City</h3>
 
 - 📫 How to reach me **janellycedenoaquino@gmail.com**
