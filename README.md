@@ -1,13 +1,14 @@
 
   ![header](https://capsule-render.vercel.app/api?type=waving&color=0:E5AA22,10:ffdb85,30:FFFDD0,40:ffdb85,50:ffdb85,60:ffdb85,70:ffdb85,80:FFFDD0,90:ffdb85,100:E5AA22&height=180&text=Janelly%20Cedeno%20Aquino&fontAlignY=35&animation=fadeIn&desc=Software%20Engineer&descAlign=80&descAlignY=59&descSize=30)
-) 
+ 
 <!--
 optional===>>>>. white font   &fontColor=FFFFFF
+ 📫 How to reach me **janellycedenoaquino@gmail.com**
 -->
-- 📫 How to reach me **janellycedenoaquino@gmail.com**
-
-<p  align="center">
-  <img src="https://res.cloudinary.com/teepublic/image/private/s--OhLHtLWr--/t_Resized%20Artwork/c_fit,g_north_west,h_1054,w_1054/co_ffffff,e_outline:53/co_ffffff,e_outline:inner_fill:53/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_90,w_630/v1575503762/production/designs/7039866_0.jpg" height="250px"/>
+<a>
+ </a>
+<p align="center">
+  <a href="https://docs.google.com/document/d/12vGchk4fXVeVMX7pytVf3lidnbbfCF-I5PrTweIx9Jw/edit" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/a4/e2/dc/a4e2dc4be54bcd2ac9af407580edcba1.jpg" alt="email" width="100" height="150"/></a> <img src="https://res.cloudinary.com/teepublic/image/private/s--OhLHtLWr--/t_Resized%20Artwork/c_fit,g_north_west,h_1054,w_1054/co_ffffff,e_outline:53/co_ffffff,e_outline:inner_fill:53/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_90,w_630/v1575503762/production/designs/7039866_0.jpg" height="250px"/></span>
 
 </p>
 <details>
