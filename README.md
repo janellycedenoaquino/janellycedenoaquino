@@ -9,49 +9,20 @@
  </p>
  
  <!-- CONTACT ME -->
-<p align="center" style="right:103%;"><a href="https://www.tiktok.com/@janellycedeno?is_from_webapp=1&sender_device=pc" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="janellycedenoa" height="40" width="100" /></a><a href="https://linkedin.com/in/janellycedenoa" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="janellycedenoa" height="40" width="100"  /></a><a href="https://codepen.io/Janellycedenoa" target="blank"><img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="janellycedenoa" height="40" width="100" /></a><a href="https://leetcode.com/janellycedenoaquino/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="janellycedenoa" height="40" width="100" /></a>
-  
+<p align="center" style="right:103%;"><a href="https://www.tiktok.com/@janellycedeno?is_from_webapp=1&sender_device=pc" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="janellycedenoa" height="40" width="100" /></a><a href="https://linkedin.com/in/janellycedenoa" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="janellycedenoa" height="40" width="100"  /></a><a href="https://codepen.io/Janellycedenoa" target="blank"><img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="janellycedenoa" height="40" width="100" /></a><a href="https://leetcode.com/janellycedenoaquino/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="janellycedenoa" height="40" width="100" /></a> 
 </p>
  
+ <!-- RESUME -->
  </a>
 <p align="center">
-  <a href="https://docs.google.com/document/d/12vGchk4fXVeVMX7pytVf3lidnbbfCF-I5PrTweIx9Jw/edit" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/a4/e2/dc/a4e2dc4be54bcd2ac9af407580edcba1.jpg" alt="email" width="100" height="150"/></a> 
+  <a href="https://docs.google.com/document/d/12vGchk4fXVeVMX7pytVf3lidnbbfCF-I5PrTweIx9Jw/edit" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/a4/e2/dc/a4e2dc4be54bcd2ac9af407580edcba1.jpg" alt="email" width="70" height="90"/></a> 
  <p>
 
 
-
-
-
+ <!-- UNDER CONSTRUCTION SIGN -->
   <img src="https://res.cloudinary.com/teepublic/image/private/s--OhLHtLWr--/t_Resized%20Artwork/c_fit,g_north_west,h_1054,w_1054/co_ffffff,e_outline:53/co_ffffff,e_outline:inner_fill:53/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_90,w_630/v1575503762/production/designs/7039866_0.jpg" height="250px" />
 
-
-
-
-
-<details>
-  <summary>projects</summary>
-</p>
-<a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/janellycedenoaquino/crown">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=janellycedenoaquino&repo=crown&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/The-4-Amigos/Graceshopper">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=officeapi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-<a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janellycedenoaquino&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=janellycedenoaquino&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Braydon's GitHub Stats" />
-</a>
-<details>
+  
 <details>
   <summary>hiding for now</summary>
 <h3 align="left">Languages and Tools:</h3>
@@ -66,6 +37,27 @@
 </details>
 
   
+   
+
+
+  
+<!-- GITHUB STATS -->
+   <div align="center">
+<a href="https://github.com/janellycedenoaquino">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=janellycedenoaquino&custom_title=Janelly's%20Github%20Stats&card_width=100&show_icons=true&line_height=27&count_private=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=ffeb9d&bg_color=151515" alt="Janelly's GitHub Stats" />
+</a>
+     </div>
+     
+<!-- LANGUAGES
+     <a href="https://github.com/janellycedenoaquino">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janellycedenoaquino&hide=html,css&card_width=400&title_color=FFFFFF&text_color=FFFFFF&icon_color=ffeb9d&bg_color=151515" />
+</a> 
+-->
+     
+     
+   
+   
+   
   <!-- FOOTER -->
 ![reversal](https://capsule-render.vercel.app/api?type=waving&color=0:E5AA22,10:ffdb85,30:FFFDD0,40:ffdb85,50:ffdb85,60:ffdb85,70:ffdb85,80:FFFDD0,90:ffdb85,100:E5AA22&height=100&reversal=true&section=footer)
 
