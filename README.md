@@ -7,11 +7,9 @@
   
   
 <!--                                                                ABOUT ME                                                                          -->
-
- <h3>About Me</h3>
- <p align="center">
+ <h4 align="center">
 Software Engineer, passionate about learning new technologies. Skilled in writing clean, efficient, DRY code. Fast learner, problem solver and detail-oriented developer,  who can conquer any obstacles in her path. 
-</p>
+</h4>
  
  
  
