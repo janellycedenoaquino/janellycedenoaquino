@@ -72,18 +72,18 @@ Software Engineer, passionate about learning new technologies. Skilled in writin
 <div style="display: inline_block">
  
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7oezmi2sd86yg7gvr023qgr92&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-    
-  ## 
  
  
-<!--                                                           GITHUB STATS                                                                            -->
-  </p>
+<!--                                                           GITHUB STATS                                                                            
+  
+ ## 
+</p>
   <p align="center">
   <a href="https://github.com/janellycedenoaquino"> <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=janellycedenoaquino&custom_title=Janelly's%20Github%20Stats&card_width=100&show_icons=true&line_height=27&count_private=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=ffeb9d&bg_color=151515" alt="Janelly's GitHub Stats" />
     </a>
   </p>
 </div>
-
+-->
 
 <!--                                                              FOOTER                                                                               -->
 
