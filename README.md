@@ -1,18 +1,13 @@
 
 <!--                                                                HEADER                                                                            -->
   ![header](https://capsule-render.vercel.app/api?type=waving&color=0:E5AA22,10:ffdb85,30:FFFDD0,40:ffdb85,50:ffdb85,60:ffdb85,70:ffdb85,80:FFFDD0,90:ffdb85,100:E5AA22&height=180&text=Janelly%20Cedeno%20Aquino&fontAlignY=35&animation=fadeIn&desc=Software%20Engineer&descAlign=80&descAlignY=59&descSize=30)
-  
-  
-  
-  
+ 
   
   
 <!--                                                                ABOUT ME                                                                          -->
  <h4 align="center">
 Software Engineer, passionate about learning new technologies. Skilled in writing clean, efficient, DRY code. Fast learner, problem solver and detail-oriented developer,  who can conquer any obstacles in her path. 
 </h4>
- 
- 
  
  
 <!--                                                                CONTACT ME                                                                         -->
@@ -22,8 +17,6 @@ Software Engineer, passionate about learning new technologies. Skilled in writin
 
 </p>
   </div>
-  
-  
   
  <!--                                                                RESUME                                                                            -->
  <div align="center">
@@ -84,7 +77,6 @@ Software Engineer, passionate about learning new technologies. Skilled in writin
   </p>
 </div>
 -->
-
 <!--                                                              FOOTER                                                                               -->
 
 
