@@ -25,10 +25,10 @@ Software Engineer, passionate about learning new technologies. Skilled in writin
   
   
   
- <!--                                                                RESUME                                                                            
+ <!--                                                                RESUME                                                                            -->
  <div align="center">
   <a href="https://docs.google.com/document/d/12vGchk4fXVeVMX7pytVf3lidnbbfCF-I5PrTweIx9Jw/edit" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/a4/e2/dc/a4e2dc4be54bcd2ac9af407580edcba1.jpg" alt="email" width="70" height="90"/></a></div>
-  -->
+
   
 <!--                                                                 IMAGE                                                                             -->
 <div style="display: inline_block">
@@ -70,9 +70,9 @@ Software Engineer, passionate about learning new technologies. Skilled in writin
 </div>
 
 <div style="display: inline_block">
- 
+ <!--
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7oezmi2sd86yg7gvr023qgr92&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
- 
+ -->
  
 <!--                                                           GITHUB STATS                                                                            
   
