@@ -10,8 +10,8 @@
 
  <h3>About Me</h3>
  <p align="center">
- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
- </p>
+Software Engineer, passionate about learning new technologies. Skilled in writing clean, efficient, DRY code. Fast learner, problem solver and detail-oriented developer,  who can conquer any obstacles in her path. 
+</p>
  
  
  
@@ -26,10 +26,10 @@
   
   
   
- <!--                                                                RESUME                                                                            -->
+ <!--                                                                RESUME                                                                            
  <div align="center">
   <a href="https://docs.google.com/document/d/12vGchk4fXVeVMX7pytVf3lidnbbfCF-I5PrTweIx9Jw/edit" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/a4/e2/dc/a4e2dc4be54bcd2ac9af407580edcba1.jpg" alt="email" width="70" height="90"/></a></div>
-  
+  -->
   
 <!--                                                                 IMAGE                                                                             -->
 <div style="display: inline_block">
@@ -69,32 +69,46 @@
 
  
 </div>
-
+<div style="display: inline_block">
+  <p align="left">
+    <ul>
+    <h3 align="left"> Currently learning </h3><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+  </ul>
 
   ## 
-  
- <!-- UNDER CONSTRUCTION SIGN
-  <img src="https://res.cloudinary.com/teepublic/image/private/s--OhLHtLWr--/t_Resized%20Artwork/c_fit,g_north_west,h_1054,w_1054/co_ffffff,e_outline:53/co_ffffff,e_outline:inner_fill:53/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_90,w_630/v1575503762/production/designs/7039866_0.jpg" height="250px" />
-
- -->
-  
-<!-- GITHUB STATS -->
-<div align="center">
-  <a href="https://github.com/janellycedenoaquino">
+ 
+ 
+<!--                                                           GITHUB STATS                                                                            -->
+  </p>
+  <p align="center">
+    <a href="https://github.com/janellycedenoaquino">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=janellycedenoaquino&custom_title=Janelly's%20Github%20Stats&card_width=100&show_icons=true&line_height=27&count_private=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=ffeb9d&bg_color=151515" alt="Janelly's GitHub Stats" />
-  </a>
+    </a>
+  </p>
 </div>
-     
-  <!-- FOOTER -->
+
+
+<!--                                                              FOOTER                                                                               -->
+
 ![reversal](https://capsule-render.vercel.app/api?type=waving&color=0:E5AA22,10:ffdb85,30:FFFDD0,40:ffdb85,50:ffdb85,60:ffdb85,70:ffdb85,80:FFFDD0,90:ffdb85,100:E5AA22&height=100&reversal=true&section=footer)
 
-<!-- OTHER STUFF I WILL ADD LATER ON OR MIGHT WANT TO USE
+
+
+<!-- OTHER STUFF I WILL OR MIGHT ADD LATER 
+
+<details>
+<summary> Other Information </summary>
+
+
+</details>
 
   LANGUAGES
-
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janellycedenoaquino&card_width=400&title_color=FFFFFF&text_color=FFFFFF&icon_color=ffeb9d&bg_color=151515"&show_icons=true&locale=en&layout=compact" alt="janellycedenoaquino" /></p>
+
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+
+  <img src="https://res.cloudinary.com/teepublic/image/private/s--OhLHtLWr--/t_Resized%20Artwork/c_fit,g_north_west,h_1054,w_1054/co_ffffff,e_outline:53/co_ffffff,e_outline:inner_fill:53/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_90,w_630/v1575503762/production/designs/7039866_0.jpg" height="250px" />
 
 **janellycedenoaquino/janellycedenoaquino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
