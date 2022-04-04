@@ -1,3 +1,4 @@
+
 <!--                                                                HEADER                                                                            -->
   ![header](https://capsule-render.vercel.app/api?type=waving&color=0:E5AA22,10:ffdb85,30:FFFDD0,40:ffdb85,50:ffdb85,60:ffdb85,70:ffdb85,80:FFFDD0,90:ffdb85,100:E5AA22&height=180&text=Janelly%20Cedeno%20Aquino&fontAlignY=35&animation=fadeIn&desc=Software%20Engineer&descAlign=80&descAlignY=59&descSize=30)
   
@@ -32,6 +33,7 @@ Software Engineer, passionate about learning new technologies. Skilled in writin
 <!--                                                                 IMAGE                                                                             -->
 <div style="display: inline_block">
   <img align="left" src= "https://user-images.githubusercontent.com/54867270/161458555-0e112ab7-81ec-42c2-bf30-0e0d4b365ff0.png" width="290" height="290"/>
+  
 </div>
   
   ##
@@ -65,28 +67,26 @@ Software Engineer, passionate about learning new technologies. Skilled in writin
 <a href="https://insomnia.rest/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/insomnia.svg" alt="insomnia" width="40" height="40"/> </a>
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
 
- 
 </div>
-<div style="display: inline_block">
-  <p align="left">
-    <ul>
-    <h3 align="left"> Currently learning </h3><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  </ul>
 
+<div style="display: inline_block">
+ 
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7oezmi2sd86yg7gvr023qgr92&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+    
   ## 
  
  
 <!--                                                           GITHUB STATS                                                                            -->
   </p>
   <p align="center">
-    <a href="https://github.com/janellycedenoaquino">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=janellycedenoaquino&custom_title=Janelly's%20Github%20Stats&card_width=100&show_icons=true&line_height=27&count_private=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=ffeb9d&bg_color=151515" alt="Janelly's GitHub Stats" />
+  <a href="https://github.com/janellycedenoaquino"> <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=janellycedenoaquino&custom_title=Janelly's%20Github%20Stats&card_width=100&show_icons=true&line_height=27&count_private=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=ffeb9d&bg_color=151515" alt="Janelly's GitHub Stats" />
     </a>
   </p>
 </div>
 
 
 <!--                                                              FOOTER                                                                               -->
+
 
 ![reversal](https://capsule-render.vercel.app/api?type=waving&color=0:E5AA22,10:ffdb85,30:FFFDD0,40:ffdb85,50:ffdb85,60:ffdb85,70:ffdb85,80:FFFDD0,90:ffdb85,100:E5AA22&height=100&reversal=true&section=footer)
 
