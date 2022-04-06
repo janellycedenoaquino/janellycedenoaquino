@@ -13,15 +13,15 @@ Software Engineer, passionate about learning new technologies. Skilled in writin
 <!--                                                                CONTACT ME                                                                         -->
  <div>
 <p align="center">
-<p align="center" style="right:103%;"><a href="https://www.tiktok.com/@janellycedeno?is_from_webapp=1&sender_device=pc" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="janellycedenoa"  /></a> <a href="https://linkedin.com/in/janellycedenoa" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="janellycedenoa" /></a> <a href="https://codepen.io/Janellycedenoa" target="blank"><img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="janellycedenoa" /></a> <a href="https://leetcode.com/janellycedenoaquino/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="janellycedenoa" /></a> <a href="JanellyCedenoAquino.com" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=portfoliol&logoColor=white" alt="janellycedenoa"/></a> <a href="mailto:janellycedenoaquino@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="janellycedenoa" /></a>
+<p align="center" style="right:103%;"><a href="https://docs.google.com/document/d/12vGchk4fXVeVMX7pytVf3lidnbbfCF-I5PrTweIx9Jw/edit" target="blank"><img align="center" src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=resume&logoColor=white" alt="janellycedenoa"  /></a> <a href="https://linkedin.com/in/janellycedenoa" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="janellycedenoa" /></a> <a href="https://codepen.io/Janellycedenoa" target="blank"><img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="janellycedenoa" /></a> <a href="https://leetcode.com/janellycedenoaquino/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="janellycedenoa" /></a> <a href="JanellyCedenoAquino.com" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=portfoliol&logoColor=white" alt="janellycedenoa"/></a> <a href="mailto:janellycedenoaquino@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="janellycedenoa" /></a>
 
 </p>
   </div>
   
  <!--                                                                RESUME                                                                            -->
- <div align="center">
+<!--  <div align="center">
   <a href="https://docs.google.com/document/d/12vGchk4fXVeVMX7pytVf3lidnbbfCF-I5PrTweIx9Jw/edit" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/a4/e2/dc/a4e2dc4be54bcd2ac9af407580edcba1.jpg" alt="email" width="70" height="90"/></a></div>
-
+ -->
   
 <!--                                                                 IMAGE                                                                             -->
 <div style="display: inline_block">
@@ -63,9 +63,9 @@ Software Engineer, passionate about learning new technologies. Skilled in writin
 </div>
 
 <div style="display: inline_block">
-  
+<!--   
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7oezmi2sd86yg7gvr023qgr92&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
+ -->
  
 <!--                                                           GITHUB STATS                                                                            
   
@@ -100,6 +100,9 @@ Software Engineer, passionate about learning new technologies. Skilled in writin
 
   <img src="https://res.cloudinary.com/teepublic/image/private/s--OhLHtLWr--/t_Resized%20Artwork/c_fit,g_north_west,h_1054,w_1054/co_ffffff,e_outline:53/co_ffffff,e_outline:inner_fill:53/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_90,w_630/v1575503762/production/designs/7039866_0.jpg" height="250px" />
 
+
+
+TIKTOK: <p align="center" style="right:103%;"><a href="https://www.tiktok.com/@janellycedeno?is_from_webapp=1&sender_device=pc" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="janellycedenoa"  /></a>
 **janellycedenoaquino/janellycedenoaquino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
