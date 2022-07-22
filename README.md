@@ -71,25 +71,23 @@ Software Engineer, passionate about learning new technologies. Skilled in writin
 -->
  
 <!--                                                           GITHUB STATS                                                                            
-  
+ 
  ## 
 
   <p align="center">
   <a href="https://github.com/janellycedenoaquino"> <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=janellycedenoaquino&custom_title=Janelly's%20Github%20Stats&card_width=100&show_icons=true&line_height=27&count_private=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=ffeb9d&bg_color=151515" alt="Janelly's GitHub Stats" />
-    </a>
+   </a>
   </p>
 </div>
 
-  
   <details>
 <summary> Other Information </summary>
     
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=janellycedenoaquino&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </details>
+  -->
 
-
--->
 <!--                                                              FOOTER                                                                               -->
 
 
