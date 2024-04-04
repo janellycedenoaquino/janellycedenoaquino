@@ -6,8 +6,7 @@
   
 <!--                                                                ABOUT ME                                                                          -->
  <h4 align="center">
-Software Engineer, passionate about learning new technologies. Skilled in writing clean, efficient, DRY code. Fast learner, problem solver and detail-oriented developer,  who can conquer any obstacles in her path. 
-</h4>
+Proactive Software Engineer with a robust foundation in both frontend and backend development. Specialized in developing scalable, efficient solutions using a wide range of modern technologies such as Typescript, React, Java and cloud services.</h4>
  
  
 <!--                                                                CONTACT ME                                                                         -->
