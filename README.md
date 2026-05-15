@@ -1,7 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:122c2d,30:1a3d3f,60:204a4c,100:122c2d&height=200&text=Janelly&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Backend%20Engineer&descAlign=50&descAlignY=58&descSize=18&descColor=E5AA22" width="100%" />
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d3b3c,30:1f6b6e,60:2a9d8f,100:0d3b3c&height=200&text=Janelly&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Backend%20Engineer&descAlign=50&descAlignY=58&descSize=18&descColor=E5AA22" width="100%" />
 </div>
 
 <div align="center">
@@ -56,5 +55,5 @@ Backend engineer with experience building and scaling Java microservices serving
 
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:122c2d,30:1a3d3f,60:204a4c,100:122c2d&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d3b3c,30:1f6b6e,60:2a9d8f,100:0d3b3c&height=100&section=footer" width="100%" />
 </div>
